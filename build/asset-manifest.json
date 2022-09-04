@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextBea/static/css/main.073c9b0a.css",
+    "main.js": "/TextBea/static/js/main.97e9834a.js",
+    "static/js/787.142da1d4.chunk.js": "/TextBea/static/js/787.142da1d4.chunk.js",
+    "index.html": "/TextBea/index.html",
+    "main.073c9b0a.css.map": "/TextBea/static/css/main.073c9b0a.css.map",
+    "main.97e9834a.js.map": "/TextBea/static/js/main.97e9834a.js.map",
+    "787.142da1d4.chunk.js.map": "/TextBea/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97e9834a.js"
+  ]
+}
